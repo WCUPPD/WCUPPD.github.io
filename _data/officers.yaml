@@ -1,0 +1,47 @@
+- title: President
+  name: Max Goulazian
+  email: maxgoulazian@gmail.com
+  portrait_path: "/img/officers/maxx.jpeg"
+  position: "e-board"
+  facebook:
+    url: https://www.facebook.com/maxx.goulazian/
+  website:
+    url: http://maxgoulazian.com/
+  linkedin:
+    url: https://www.linkedin.com/in/maxgoulazian/
+
+- title: Vice President
+  name: Kaelin Bettler
+  email: kb893703@wcupa.edu
+  portrait_path: "/img/officers/kaelin.jpeg"
+  position: "e-board"
+  facebook:
+    url: https://www.facebook.com/kaelin.bettler
+  linkedin:
+    url: https://www.linkedin.com/in/kaelin-bettler-65070a174/
+
+- title: Secretary
+  name: Brock Robards
+  email: br903719@wcupa.edu
+  portrait_path: "/img/officers/brock.jpeg"
+  position: "e-board"
+  facebook:
+    url: https://www.facebook.com/brock.robards
+
+- title: Treasurer
+  name: Logan Bartholomew
+  email: LB917450@wcupa.edu
+  portrait_path: "/img/officers/logan.jpeg"
+  position: "e-board"
+  linkedin:
+    url: https://www.linkedin.com/in/logan-bartholomew-159a33195/
+
+- title: Social Media Chair
+  name: Morgan Miceli
+  email: MM905955@wcupa.edu
+  portrait_path: "/img/officers/Morgan.jpeg"
+  position: "e-board"
+  facebook:
+    url: https://www.facebook.com/morgan.miceli.1
+  linkedin:
+    url: https://www.linkedin.com/in/morgan-miceli-710217197/

@@ -1,0 +1,59 @@
+<footer class="footer-area">
+    <div class="container">
+        <div class="row py-4 justify-content-between">
+            <div class="col-lg-4 col-md-5 mt-4">
+                <div class="single-footer-widget">
+                    <h4 class="colored-text">{{ site.current_class }}-{{ site.current_class | plus: 1 }} WCU PPD Executive Board</h4>
+                    {% for officer in site.data.officers %}
+                        {% if officer.position == "e-board" %}
+                            <li class="colored-text">{{ officer.title }} - {{ officer.name }}</li>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-4">
+                <div class="single-footer-widget">
+                    <h4>Join us now</h4>
+                    <p class="colored-text">Sign up for our club to be up to date on all things PPD.
+                        <div>
+
+                        </div>
+                    </p>
+                </div>
+                <div class="donation-wrapper">
+                    <style>
+                        .donation-wrapper button {
+                            border-radius: 2px;
+                            border: 1px solid #c1af7a;
+                            background: #cab57c;
+                            margin-right: 5px;
+                        }
+                        .hide {
+                            display: none;
+                        }
+                    </style>
+                    <div id="donation-button">
+                        >
+                    <a target="_blank" rel="noreferrer" href="https://ramconnect.wcupa.edu/ppd/club_signup" target="_blank" class="primary-btn text-uppercase">Join our club!</a>
+                    </div>
+                    <div id="money-buttons" class="hide">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-3 social-widget mt-4">
+                <div class="single-footer-widget">
+        
+                    <h4>Contact Us</h4>
+
+                    <div class="footer-social d-flex justify-content-around mt-4">
+                        <a target="_blank" rel="noreferrer" href="https://www.instagram.com/wcu_ppdclub/"><i class="fa fa-2x fa-instagram"></i></a>
+                        <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/wcu-ppd/"><i class="fa fa-2x fa-linkedin"></i></a>
+                        <a target="_blank" rel="noreferrer" href="https://www.facebook.com/groups/wcuppd"><i class="fab fa-2x fa-facebook"></i></a>
+                        <a target="_blank" rel="noreferrer" href="https://ramconnect.wcupa.edu/ppd/club_signup"><i class="fas fa-2x fa-graduation-cap"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
