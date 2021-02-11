@@ -20,7 +20,7 @@
   linkedin:
     url: https://www.linkedin.com/in/kaelin-bettler-65070a174/
 
-- title: Secretary
+- title: Communication
   name: Brock Robards
   email: br903719@wcupa.edu
   portrait_path: "/img/officers/brock.jpeg"
@@ -28,7 +28,7 @@
   facebook:
     url: https://www.facebook.com/brock.robards
 
-- title: Treasurer
+- title: Finance
   name: Logan Bartholomew
   email: LB917450@wcupa.edu
   portrait_path: "/img/officers/logan.jpeg"
@@ -45,3 +45,13 @@
     url: https://www.facebook.com/morgan.miceli.1
   linkedin:
     url: https://www.linkedin.com/in/morgan-miceli-710217197/
+
+- title: Initiative Lead: Networking
+  name: Maddison Abrams
+  email: maxgoulazian@gmail.com
+  portrait_path: "/img/officers/Maddie.jpeg"
+  position: "e-board"
+  facebook:
+    url: https://www.facebook.com/maddie.abrams.792
+  linkedin:
+    url: https://www.linkedin.com/in/maddison-abrams/
