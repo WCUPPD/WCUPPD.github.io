@@ -1,0 +1,251 @@
+- name: Auld, Dr. Josh
+  title1: Professor
+  title2: Evolutionary Ecology
+  title3:
+  address: SSL 154
+  phoneNumber: 610-436-0046
+  email: jauld@wcupa.edu
+  image: "/img/faculty/auld.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1627835
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/jAuld/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/jAuld/default.aspx
+
+- name: Began, Dr. Sharon E.
+  title1: Professor
+  title2:
+  title3:
+  address: SSN 288
+  phoneNumber: 610-436-2457
+  email: sbegan@wcupa.edu
+  image: "/img/faculty/none.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=562703
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/sBegan/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/sBegan/default.aspx
+
+- name: Boettger, Dr. S. Anne
+  title1: Professor
+  title2:
+  title3:
+  address: SSN 475
+  phoneNumber: 610-430-4601
+  email: sboettger@wcupa.edu
+  image: "/img/faculty/boettger.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1744118
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/aBoettger/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/aBoettger/default.aspx
+
+- name: Buskirk, Dr. Sean
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: SSN 290
+  phoneNumber: 610-436-2389
+  email: sbuskirk@wcupa.edu
+  image: "/img/faculty/buskirk.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2524094
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/sBuskirk/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/sBuskirk/default.aspx
+
+- name: Casotti, Dr. Giovanni
+  title1: Professor
+  title2:
+  title3:
+  address: SSN 175
+  phoneNumber: 610-436-2856
+  email: gcasotti@wcupa.edu
+  image: "/img/faculty/none.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=291269
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/gCasotti/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/gCasotti/default.aspx
+
+- name: Chambers, Dr. Benjamin
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: Merion 325
+  phoneNumber: 610-436-2327
+  email: bchambers@wcupa.edu
+  image: "/img/faculty/none.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2650988
+  Research:
+  website:
+
+- name: Chandler, Dr. Jennifer
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: SSN 281
+  phoneNumber: 610-436-1023
+  email: jchandler@wcupa.edu
+  image: "/img/faculty/chandler.png"
+  RMP:
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/biology/jChandler/default.aspx
+
+- name: Donze-Reiner, Dr. Teresa
+  title1: Associate Professor
+  title2:
+  title3:
+  address: MER 301
+  phoneNumber: 610-436-2985
+  email: tdonze@wcupa.edu
+  image: "/img/faculty/donze.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2037182
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/tDonzeReiner/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/tDonzeReiner/default.aspx
+
+- name: Fish, Dr. Frank E.
+  title1: Professor
+  title2:
+  title3:
+  address: SSL 058
+  phoneNumber: 610-436- 2460
+  email: ffish@wcupa.edu
+  image: "/img/faculty/fish.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=177141
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/fFish/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/fFish/default.aspx
+
+- name: Gestl, Dr. Erin
+  title1: Assistant Professor
+  title2: Molecular Biology
+  title3:
+  address: SSN 282
+  phoneNumber: 610-436-2760
+  email: egestl@wcupa.edu
+  image: "/img/faculty/gestl.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1023050
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/eGelst/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/eGelst/default.aspx
+
+- name: Maresh, Dr. Jen
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: MER 317
+  phoneNumber: 610-436-2318
+  email: jmaresh@wcupa.edu
+  image: "/img/faculty/maresh.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2294382
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/jMaresh/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/jMaresh/default.aspx
+
+- name: Pagán, Dr. Oné
+  title1: Professor
+  title2:
+  title3:
+  address: MER 302
+  phoneNumber: 610-436-2165
+  email: opagan@wcupa.edu
+  image: "/img/faculty/pagan.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=763246
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/oPagan/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/oPagan/default.aspx
+
+- name: Phares, Dr. Gregg
+  title1: Instructor
+  title2:
+  title3:
+  address: SSL 146
+  phoneNumber: 610-738-0506
+  email: gphares@wcupa.edu
+  image: "/img/faculty/none.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1150156
+  Research:
+  website:
+
+- name: Rosario, Dr. Michael
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: MER 323
+  phoneNumber: 610-436-2316
+  email: mrosario@wcupa.edu
+  image: "/img/faculty/rosario.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2415816
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/mRosario/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/mRosario/default.aspx
+
+- name: Pisciotta, Dr. John
+  title1: Associate Professor
+  title2: Microbiology
+  title3:
+  address: SSN 376
+  phoneNumber: 610-738-0540
+  email: jpisciotta@wcupa.edu
+  image: "/img/faculty/pisciotta.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1768815
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/jPisciotta/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/jPisciotta/default.aspx
+
+- name: Schedlbauer, Dr. Jessica
+  title1: Professor
+  title2:
+  title3:
+  address: SSN 383
+  phoneNumber: 610-436-3175
+  email: jschedlbauer@wcupa.edu
+  image: "/img/faculty/schedlbauer.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1496852
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/jSchedlbauer/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/jSchedlbauer/default.aspx
+
+- name: Sullivan-Brown, Dr. Jessica
+  title1: Associate Professor
+  title2: Cell and Molec. Biology
+  title3:
+  address: MER 319
+  phoneNumber: 610-436-2864
+  email: jsullivan-brown@wcupa.edu
+  image: "/img/faculty/sullivan-brown.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2114744
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/jSullivan-Brown/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/jSullivan-Brown/default.aspx
+
+- name: Sweet, Dr. Eric
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: MER 322
+  phoneNumber: 610-436-2249
+  email: esweet@wcupa.edu
+  image: "/img/faculty/sweet.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2206123
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/eSweet/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/eSweet/default.aspx
+
+- name: Tiebout, Dr. Harry
+  title1: Professor
+  title2:
+  title3:
+  address: SSN 075
+  phoneNumber: 610-436-2726
+  email: htiebout@wcupa.edu
+  image: "/img/faculty/tiebout.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=66652
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/hTiebout/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/hTiebout/default.aspx
+
+- name: Turner, Dr. Gregory
+  title1: Professor
+  title2:
+  title3:
+  address: SSN 377
+  phoneNumber: 610-436-3009
+  email: gturner@wcupa.edu
+  image: "/img/faculty/turner.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=560654
+  Research: https://www.wcupa.edu/sciences-mathematics/biology/gTurner/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/biology/gTurner/default.aspx
+
+- name: Waber, JoAnne R
+  title1: Instructor
+  title2:
+  title3:
+  address: SSN 377B
+  phoneNumber: 610-436-3546
+  email: jwaber2@wcupa.edu
+  image: "/img/faculty/none.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=493850
+  Research:
+  website:

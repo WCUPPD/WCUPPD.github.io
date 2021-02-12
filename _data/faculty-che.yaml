@@ -1,0 +1,191 @@
+- name: Mahrukh Azam
+  title1: Professor
+  title2: Department Chair
+  title3:
+  address: SS-325
+  phoneNumber: 610-436-2982
+  email: MAzam@wcupa.edu
+  image: "/img/faculty/none.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=505286
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/mAzam.aspx
+
+- name: Roger Barth
+  title1: Professor
+  title2:
+  title3:
+  address: SS-219
+  phoneNumber: 610-436-3210
+  email: RBarth@wcupa.edu
+  image: "/img/faculty/barth.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=88639
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/rBarth.aspx
+
+- name: Melissa Cichowicz
+  title1: Associate Professor
+  title2: Assistant Chair
+  title3:
+  address: SSS 119A
+  phoneNumber: 610-436-2774
+  email: MCichowicz@wcupa.edu
+  image: "/img/faculty/cichowicz.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=85678
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/mCichowicz.aspx
+
+- name: David Dehm
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: SS-233
+  phoneNumber: 610-436-2778
+  email: DDehm@wcupa.edu
+  image: "/img/faculty/dehm.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=34650
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/dDehm.aspx
+
+- name: Blaise Frost
+  title1: Associate Professor
+  title2:
+  title3:
+  address: SS-331
+  phoneNumber: 610-436-2780
+  email: BFrost@wcupa.edu
+  image: "/img/faculty/frost.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=80180
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/bFrost.aspx
+
+- name: Felix Goodson
+  title1: Professor
+  title2:
+  title3:
+  address: SS-337
+  phoneNumber: 610-436-2307
+  email: FGoodson@wcupa.edu
+  image: "/img/faculty/goodson.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=58489
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/fGoodson.aspx
+
+- name: Jingqiu Hu
+  title1: Associate Professor
+  title2:
+  title3:
+  address: SS-323
+  phoneNumber: 610-436-0075
+  email: JHu@wcupa.edu
+  image: "/img/faculty/hu.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1934068
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/jHu.aspx
+
+- name: Monica Joshi
+  title1: Professor
+  title2:
+  title3:
+  address: SS-333
+  phoneNumber: 610-436-2880
+  email: MJoshi@wcupa.edu
+  image: "/img/faculty/joshi.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1674231
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/mJoshi.aspx
+
+- name: Kurt Kolasinski
+  title1: Professor
+  title2:
+  title3:
+  address: SS-212A
+  phoneNumber: 610-436-2968
+  email: KKolasinski@wcupa.edu
+  image: "/img/faculty/kolasinski.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=930959
+  Research: https://www.wcupa.edu/sciences-mathematics/chemistry/kKolasinski/research.aspx
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/kKolasinski/default.aspx
+
+- name: Michael Moran
+  title1: Professor (retired)
+  title2:
+  title3:
+  address: SS-223
+  phoneNumber: 610-436-2975
+  email: MMoran@wcupa.edu
+  image: "/img/faculty/moran.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=882894
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/mMoran.aspx
+
+- name: Constantinos Pistos
+  title1: Associate Professor
+  title2:
+  title3:
+  address: SS-221
+  phoneNumber: 610-436-2269
+  email: CPistos@wcupa.edu
+  image: "/img/faculty/pistos.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2043298
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/cPistos.aspx
+
+- name: James Pruitt, Ph.D
+  title1: Club Advisor
+  title2: Associate Professor
+  title3:
+  address: SSCS 329
+  phoneNumber: 610-436-2881
+  email: jpruitt@wcupa.edu
+  image: "/img/faculty/pruitt.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1896004
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/jPruitt.aspx
+
+- name: Mark Schuman
+  title1: Assistant Professor
+  title2:
+  title3:
+  address: SS-233
+  phoneNumber: 610-436-2675
+  email: MShuman@wcupa.edu
+  image: "/img/faculty/shuman.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=816515
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/mShuman.aspx
+
+- name: Thomas R. Simpson, Ph.D.
+  title1: Director, PPD Program
+  title2: Associate Professor
+  title3:
+  address: SSCS 117 or 327
+  phoneNumber: 610-436-2225
+  email: tsimpson2@wcupa.edu
+  image: "/img/faculty/simpson.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2184396
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/tSimpson.aspx
+
+- name: Timothy Starn
+  title1: Professor
+  title2:
+  title3:
+  address: SS-335
+  phoneNumber: 610-436-2684
+  email: TStarn@wcupa.edu
+  image: "/img/faculty/starn.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1184337
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/tStarn.aspx
+
+- name: John Townsend
+  title1: Professor
+  title2:
+  title3:
+  address: SS-225
+  phoneNumber: 610-436-1063
+  email: JTownsend@wcupa.edu
+  image: "/img/faculty/townsend.png"
+  RMP: https://www.ratemyprofessors.com/ShowRatings.jsp?tid=60751
+  Research:
+  website: https://www.wcupa.edu/sciences-mathematics/chemistry/jTownsend.aspx

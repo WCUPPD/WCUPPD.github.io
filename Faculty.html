@@ -1,0 +1,125 @@
+---
+layout: page
+title: Faculty and Staff
+permalink: /faculty/
+---
+<section class="container portfolio-area" id="portfolio">
+	<h1 class="mt-5 text-center">Pharmaceutical Product Development Program</h1>
+	<hr class="mb-3">
+	<div class="row mx-2">
+		{% for faculty in site.data.faculty-ppd %}
+		<div class="p-2 col-12 col-sm-6 col-md-4 col-lg-3">
+			<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+				<div class="text-center d-flex flex-column h-100">
+					<div class="card-header text-bold">{{ faculty.title1 }}</div>
+
+					<div class="d-flex flex-column justify-content-center card-body">
+						<h5 class="card-title my-0">{{ faculty.name }}</h5>
+
+						<img src="{{ faculty.image }}" width=200 height=200 class="img-fluid mx-auto mt-auto mb-3" alt="">
+						<div class="cat">{{ faculty.address }}</div>
+						<div class="cat">{{ faculty.phoneNumber }}</div>
+					</div>
+					<div class="card-footer border-light">
+						<div class="d-flex justify-content-around">
+							<a target="_blank" rel="noreferrer" href="mailto:{{ faculty.email }}"><i class="far text-secondary fa-2x fa-envelope"></i></a>
+							{% if faculty.RMP %}
+							<a target="_blank" rel="noreferrer" href="{{ faculty.RMP }}"><i class="fas text-secondary fa-2x fa-award"></i></a>
+							{% endif %}
+							{% if faculty.Research %}
+							<a target="_blank" rel="noreferrer" href="{{ faculty.website }}"><i class="fas text-secondary fa-2x fa-search"></i></a>
+							{% endif %}
+							{% if faculty.website %}
+							<a target="_blank" rel="noreferrer" href="{{ faculty.website }}"><i class="fas text-secondary fa-2x fa-laptop"></i></a>
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+
+
+
+
+
+
+	<section class="container portfolio-area" id="portfolio">
+		<h1 class="mt-5 text-center">Chemistry Department</h1>
+		<hr class="mb-3">
+		<div class="row mx-2">
+			{% for faculty in site.data.faculty-che %}
+			<div class="p-2 col-12 col-sm-6 col-md-4 col-lg-3">
+				<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+					<div class="text-center d-flex flex-column h-100">
+						<div class="card-header text-bold">{{ faculty.title1 }}</div>
+
+						<div class="d-flex flex-column justify-content-center card-body">
+							<h5 class="card-title my-0">{{ faculty.name }}</h5>
+
+							<img src="{{ faculty.image }}" width=200 height=200 class="img-fluid mx-auto mt-auto mb-3" alt="">
+							<div class="cat">{{ faculty.address }}</div>
+							<div class="cat">{{ faculty.phoneNumber }}</div>
+						</div>
+						<div class="card-footer border-light">
+							<div class="d-flex justify-content-around">
+								<a target="_blank" rel="noreferrer" href="mailto:{{ faculty.email }}"><i class="far text-secondary fa-2x fa-envelope"></i></a>
+								{% if faculty.RMP %}
+								<a target="_blank" rel="noreferrer" href="{{ faculty.RMP }}"><i class="fas text-secondary fa-2x fa-award"></i></a>
+								{% endif %}
+								{% if faculty.Research %}
+								<a target="_blank" rel="noreferrer" href="{{ faculty.website }}"><i class="fas text-secondary fa-2x fa-search"></i></a>
+								{% endif %}
+								{% if faculty.website %}
+								<a target="_blank" rel="noreferrer" href="{{ faculty.website }}"><i class="fas text-secondary fa-2x fa-laptop"></i></a>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+
+
+
+
+
+
+		<section class="container portfolio-area" id="portfolio">
+			<h1 class="mt-5 text-center">Biology Department</h1>
+			<hr class="mb-3">
+			<div class="row mx-2">
+				{% for faculty in site.data.faculty-bio %}
+				<div class="p-2 col-12 col-sm-6 col-md-4 col-lg-3">
+					<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+						<div class="text-center d-flex flex-column h-100">
+							<div class="card-header text-bold">{{ faculty.title1 }}</div>
+
+							<div class="d-flex flex-column justify-content-center card-body">
+								<h5 class="card-title my-0">{{ faculty.name }}</h5>
+
+								<img src="{{ faculty.image }}" width=200 height=200 class="img-fluid mx-auto mt-auto mb-3" alt="">
+								<div class="cat">{{ faculty.address }}</div>
+								<div class="cat">{{ faculty.phoneNumber }}</div>
+							</div>
+							<div class="card-footer border-light">
+								<div class="d-flex justify-content-around">
+									<a target="_blank" rel="noreferrer" href="mailto:{{ faculty.email }}"><i class="far text-secondary fa-2x fa-envelope"></i></a>
+									{% if faculty.RMP %}
+									<a target="_blank" rel="noreferrer" href="{{ faculty.RMP }}"><i class="fas text-secondary fa-2x fa-award"></i></a>
+									{% endif %}
+									{% if faculty.Research %}
+									<a target="_blank" rel="noreferrer" href="{{ faculty.website }}"><i class="fas text-secondary fa-2x fa-search"></i></a>
+									{% endif %}
+									{% if faculty.website %}
+									<a target="_blank" rel="noreferrer" href="{{ faculty.website }}"><i class="fas text-secondary fa-2x fa-laptop"></i></a>
+									{% endif %}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
