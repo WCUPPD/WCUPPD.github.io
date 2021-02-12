@@ -1,0 +1,260 @@
+- name: Pfizer
+  address1: 500 Arcola Road
+  address2: Collegeville, PA 19426-3982
+  address3:
+  address4:
+  phoneNumber: 484-865-500
+  website: https://pfizer.com/
+  image: "/img/corporate/pfizer.png"
+
+- name: AstraZeneca
+  address1: 1800 Concord Pike
+  address2: Wilmington, DE 19850-5437
+  address3:
+  address4:
+  phoneNumber:  302-886-3000
+  website: https://astrazeneca-us.com/
+  image: "/img/corporate/astrazeneca.png"
+
+- name: Merck
+  address1: One Merck Drive
+  address2: Whitehouse Station, NJ 08889-0100
+  address3:
+  address4:
+  phoneNumber:  908-423-1000
+  website: https://Merck.com/
+  image: "/img/corporate/merck.png"
+
+- name: Accugenix
+  address1: 223 Lake Drive
+  address2: Newark, DE 19702
+  address3:
+  address4:
+  phoneNumber:  302-292-8888
+  website: http://www.accugenix.com
+  image: "/img/corporate/accugenix.png"
+
+- name: Absorption Systems
+  address1: Oaklands Corporate Center
+  address2: 440 Creamery Way, Suite 300
+  address3: Exton, PA  19341-2554
+  address4:
+  phoneNumber:  610-280-7300
+  website: https://absorption.com/
+  image: "/img/corporate/absorption.png"
+
+- name: MTTI
+  address1: 833 Lincoln Avenue, Unit 9
+  address2: West Chester, PA 19380
+  address3:
+  address4:
+  phoneNumber:  610-738-7938
+  website: https://www.mtarget.com/mtti/home.html
+  image: "/img/corporate/MTTI.png"
+
+- name: Agilent
+  address1: Life Sciences and Chemical Analysis
+  address2: 2850 Centerville Road
+  address3: Wilmington, DE 19808-1610
+  address4:
+  phoneNumber:  800-227-9770
+  website: https://www.chem.agilent.com/
+  image: "/img/corporate/agilent.png"
+
+- name: NuPathe
+  address1: 227 Washington Street
+  address2: Suite 200
+  address3: Conshohocken, PA 19428
+  address4:
+  phoneNumber:  484-567-0130
+  website: https://www.nupathe.com/
+  image: "/img/corporate/nupathe.png"
+
+- name: Aptagen
+  address1: 250 North Main Street
+  address2: Jacobus, PA 17407
+  address3:
+  address4:
+  phoneNumber:  717-278-2436
+  website: https://aptagen.com/
+  image: "/img/corporate/aptagen.png"
+
+- name: Lubrizol
+  address1: 3894 Courtney Street
+  address2: Bethlehem, PA 18017-8920
+  address3:
+  address4:
+  phoneNumber:  610-861-4701
+  website: https://lubrizolcdmo.com/
+  image: "/img/corporate/lubrizol.png"
+
+- name: Charles River
+  address1: 185 Jordan Road, Number 4
+  address2: Troy, NY 12180-7611
+  address3:
+  address4:
+  phoneNumber:  518-286-0016
+  website: https://criver.com/
+  image: "/img/corporate/charlesriver.png"
+
+- name: Janssen
+  address1: (Formerly Centocor Biotech, Inc.)
+  address2: 800/850 Ridgeview Drive
+  address3: Horsham, PA 19044
+  address4:
+  phoneNumber:  610-651-6000
+  website: https://www.janssen.com/us/
+  image: "/img/corporate/janssen.png"
+
+- name: Progenra
+  address1: 271A Great Valley Parkway
+  address2: Malvern, PA 19355
+  address3:
+  address4:
+  phoneNumber:  610-644-6974, ext. 300
+  website: https://progenra.com/
+  image: "/img/corporate/progenra.png"
+
+- name: Cephalon
+  address1: 41 Moores Road
+  address2: Frazer, PA 19355
+  address3:
+  address4:
+  phoneNumber:  610-344-0200
+  website: https://cephalon.com/
+  image: "/img/corporate/cephalon.png"
+
+- name: ConcertAI
+  address1: (Formerly ProMetrics)
+  address2: 480 American Avenue
+  address3: King of Prussia, PA 19406
+  address4:
+  phoneNumber:  610-265-6344
+  website: https://prometrics.com/
+  image: "/img/corporate/concertai.png"
+
+- name: PureSyn
+  address1: 87 Great Valley Parkway
+  address2: Malvern, PA 19355
+  address3:
+  address4:
+  phoneNumber:  610-640-0800
+  website: http://www.puresyn.com/
+  image: "/img/corporate/puresyn.png"
+
+- name: Endo
+  address1: 100 Endo Boulevard
+  address2: Chadds Ford, PA 19317
+  address3:
+  address4:
+  phoneNumber:  610-558-9800
+  website: https://endo.com/
+  image: "/img/corporate/endo.png"
+
+- name: Reaction Biology
+  address1: One Great Valley Parkway, Suite 8
+  address2: Malvern, PA 19355
+  address3:
+  address4:
+  phoneNumber:  1-877-347-2368
+  website: http://www.reactionbiology.com/
+  image: "/img/corporate/reactionbiology.png"
+
+- name: Takeda
+  address1: (Formerly Shire)
+  address2: 725 Chesterbrook Boulevard
+  address3: Wayne, PA 19087-5637
+  address4:
+  phoneNumber:  484-595-8800
+  website: https://www.takeda.com/
+  image: "/img/corporate/takeda.png"
+
+- name: Icon
+  address1: 212 Church Road
+  address2: North Wales, PA 19454
+  address3:
+  address4:
+  phoneNumber:  215-616-3000
+  website: https://iconplc.com/
+  image: "/img/corporate/icon.png"
+
+- name: Tengion
+  address1: 2900 Potshop Lane, Suite 100
+  address2: Norristown, PA 19403
+  address3:
+  address4:
+  phoneNumber:  610-292-8364
+  website: https://www.linkedin.com/company/tengion/about/
+  image: "/img/corporate/tengion.png"
+
+- name: Incyte
+  address1: Experimental Station
+  address2: Route 141 & Henry Clay Road
+  address3: Building E336
+  address4: Wilmington, DE 19880
+  phoneNumber:  302-498-6700
+  website: https://incyte.com/
+  image: "/img/corporate/incyte.png"
+
+- name: Thermo Fisher
+  address1: Scientific Instruments Division
+  address2: 101 Constitution Boulevard
+  address3: Franklin, MA 02038
+  address4:
+  phoneNumber:  1-800-246-4550
+  website: https://thermofisher.com/
+  image: "/img/corporate/thermofisher.png"
+
+- name: Ipsos
+  address1: Morris Corporate Center 2
+  address2: 1 Upper Pond Road, Bldg. D
+  address3: Parsippany, NJ 07054-4050
+  address4:
+  phoneNumber:  973-658-1700
+  website: https://ipsos-na.com/
+  image: "/img/corporate/ipsos.png"
+
+- name: URL Pharma
+  address1: 1100 Orthodox Street
+  address2: Philadelphia, PA 19124
+  address3:
+  address4:
+  phoneNumber:  800-523-3684
+  website: https://urlpharma.com/
+  image: "/img/corporate/urlpharma.png"
+
+- name: Life Sensors
+  address1: 271 Great Valley Parkway, Suite 100
+  address2: Malvern, PA 19355
+  address3:
+  address4:
+  phoneNumber:  610-644-8845
+  website: https://lifesensors.com/
+  image: "/img/corporate/life.png"
+
+- name: Wistar Institute
+  address1: Office of Business Development
+  address2: 3601 Spruce Street, Room 322
+  address3: Philadelphia, PA 19104
+  address4:
+  phoneNumber:  215-898-7325
+  website: https://wistar.org/
+  image: "/img/corporate/wistar.png"
+
+- name: Ferring
+  address1: (Formerly CPSI Cytokine Pharma Sciences)
+  address2: 150 South Warner Road, Suite 420
+  address3: King of Prussia, PA 19406
+  address4:
+  phoneNumber: 610-687-1776
+  website: https://www.ferring.com/
+  image: "/img/corporate/ferring.png"
+
+- name: GSK
+  address1: 1250 S. Collegeville Road
+  address2: Collegeville, PA 19426
+  address3:
+  address4:
+  phoneNumber:  1-888-825-5249
+  website: https://us.gsk.com/
+  image: "/img/corporate/gsk.png"

@@ -1,0 +1,38 @@
+---
+layout: page
+title: Industry Partners
+permalink: /partners/
+---
+
+<section class="portfolio-area" id="portfolio">
+	<div class="container">
+		<div class="filters-content">
+			<div class="row">
+
+
+				{% for partner in site.data.partners %}
+					<div class="text-center mb-5 col-12 col-md-6 col-lg-4">
+					<div class="single-portfolio all vector">
+						<div class="relative">
+							<div class="thumb">
+					<img src="{{ partner.image }}" class="img-fluid" alt="">
+					<div class="cat">{{ partner.address1 }}</div>
+					<div class="cat">{{ partner.address2 }}</div>
+					{% if partner.address3 %}
+					<div class="cat">{{ partner.address3 }}</div>
+					{% endif %}
+					{% if partner.address4 %}
+					<div class="cat">{{ partner.address4 }}</div>
+					{% endif %}
+					<div class="cat">{{ partner.phoneNumber }}</div>
+					<a target="_blank" rel="noreferrer" href="{{ partner.website }}" target="_blank" class="primary-btn text-uppercase">Website</a>
+
+				</div>
+
+      </div>
+		</div>
+	</div>
+	{% endfor %}
+
+
+</section>
