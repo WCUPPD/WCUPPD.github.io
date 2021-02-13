@@ -1,12 +1,3 @@
-- course: CHE 232
-  title: Organic Chemistry II
-  credits: 3 Credits
-  prereq: CHE 231
-  coreq:
-  info: A survey of the classes of organic reaction from a mechanistic deductive approach. Topic will include nucleophilic and electrophilic substitution, reaction of carbonyl compounds, elimination, aromatic substitution, molecular rearrangements, oxidation reduction reactions, carbanion and amine chemistry. These reactions are applied to the remaining classes of organic compounds not covered in Organic Chemistry I.
-  available: Typically offered in Fall & Spring.
-  professor:
-
 - course: CHE 321
   title: Analytical Chemistry I
   credits: 3 Credits
