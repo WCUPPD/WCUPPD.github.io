@@ -159,12 +159,3 @@
   info: Laboratory course in physical chemistry including computer applications, thermodynamics, chemical kinetics, structure, and spectroscopy.
   available: Typically offered in Fall.
   professor:
-
-- course: CRL 477
-  title: Biochemistry II Lab
-  credits: 2 Credits
-  prereq: CHE 476, CRL 476
-  coreq:
-  info: An advanced laboratory course in biochemistry. This course is a practical application of biochemical principles, methods used in forensic DNA typing, and drug metabolite analysis in toxicological matrices.
-  available: Typically offered in Spring.
-  professor:
