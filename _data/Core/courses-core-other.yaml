@@ -1,0 +1,53 @@
+- course: PHY 130
+  title: General Physics I
+  credits: 4 Credits
+  prereq:
+  coreq:
+  info: An introductory, noncalculus, physics course. Mechanics of solids and fluids, wave motion, heat and temperature, thermodynamics, and kinetic theory.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: PHY 140
+  title: General Physics II
+  credits: 4 Credits
+  prereq: PHY 130
+  coreq:
+  info: Physics 140 is a continuation of Physics 130, which covers electricity, magnetism, electrical circuits, optics, and quantum physics.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: STA 311
+  title: Intro Statistical Computing and Data Management
+  credits: 3 Credits
+  prereq: MAT 121
+  coreq:
+  info: Course will give students the ability to manage and manipulate data effectively, conduct basic statistical analysis, and generate reports and graphics primarily using the SAS Statistical Software Program.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: ENG 371
+  title: Technical Writing
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: Instruction in the forms and techniques of written, oral, and visual communication currently practiced in the scientific and technical professions. A series of coordinated assignments leads to a final project in the student's field of professional study.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: PHI 371
+  title: Medical Ethics
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: A case based approach to the study of philosophical concepts and ethical criteria as applied to health care practice and clinical research.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: ECO 112
+  title: Principles of Economics (Micro)
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: Principles underlying use and allocation of scarce productive resources. Consumption and production activities. Value, price, and income distribution. Considerations of economic efficiency and welfare.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:

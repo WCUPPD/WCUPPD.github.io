@@ -1,0 +1,35 @@
+- course: MAT 161
+  title: Calculus I
+  credits: 4 Credits
+  prereq: MAT 131
+  coreq:
+  info: Differential and integral calculus of real-valued functions of a single real variable with applications.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: MAT 121
+  title: Introduction to Statistics I
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: "Introduction to statistics and statistical inference. Concepts include: descriptive statistics, sampling distributions, confidence intervals, hypothesis testing, along with a formal introduction to linear regression and categorical data analysis. Statistical software including, but not limited to SPSS and Excel, will be used to facilitate the understanding of important statistical ideas and for the implementation of data analysis in many areas of application."
+  available: Typically offered in Fall, Spring, Summer, Winter.
+  professor:
+
+- course: MAT 145
+  title: Calculus for the Life Sciences
+  credits: 3 Credits
+  prereq: MAT 115
+  coreq:
+  info: An overview of differential and integral calculus, motivated through biological problems. Topics include mathematical modeling with functions, limits, continuity, differentiation, optimization, and integration. Graphing calculators are used as an aid in the application of calculus concepts and methods to realistic biological problems.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: MAT 143
+  title: Brief Calculus
+  credits: 3 Credits
+  prereq: MAT 113
+  coreq:
+  info: An intuitive approach to calculus with emphasis on conceptual understanding and applications to business. Topics include differentiation, curve-sketching, optimization, integration, and partial derivatives.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:

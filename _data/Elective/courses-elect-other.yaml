@@ -1,0 +1,62 @@
+- course: STA 200
+  title: Introduction to Statistics II
+  credits: 3 Credits
+  prereq: MAT 121
+  coreq:
+  info: Continuation of MAT 121/MAT 125. Inference about the means, standard deviations and proportions, goodness of fit, analysis of variance, regression analysis, correlation, and nonparametric tests
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: STA 319
+  title: Applied Statistics
+  credits: 3 Credits
+  prereq: MAT 121, MAT 161
+  coreq:
+  info: This course will cover simple and multiple linear regression methods and linear time series analysis with an emphasis on fitting suitable models to data and testing and evaluating models against data.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: MKT 250
+  title: Principles of Marketing
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: This course will discuss the strategic importance of marketing to for-profit and non-profit organizations. Several key aspects of marketing will be reviewed, such as consumer behavior, personal selling, product positioning, pricing, market segmentation, B2B, B2C, services, advertising, sales promotion, direct and indirect channels of distribution, new product development, and retention of customers.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: ECO 111
+  title: Principles of Economics (Macro)
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: National income and its measurement. The determination of price levels, output, and employment. Money and credit, expenditures, and economic stability. Government fiscal and monetary policy.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: ECO 370
+  title: The Economics of Health Care
+  credits: 3 Credits
+  prereq: ECO 111, ECO 112
+  coreq:
+  info: "This course will apply the basic tools of economics analysis to the various components of the health care system. Relying on microeconomic principles, we will study the behavior of participants (consumers, providers, insurers) in the health care industry. We will address some key policy issues that surround the provision of health care, as well as considering different health systems."
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: HEA 377
+  title: Pharmacology
+  credits: 2 Credits
+  prereq:
+  coreq:
+  info: An in-depth study of various drug categories including drug-dose response and principles of absorption, distribution, metabolism, and excretion.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BLA 201
+  title: Legal Environment of Business
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: "Examines the framework of the American legal system and its impact on the environment in which business operates. Sources of law, including constitutional, statutory, administrative, and common law principles, that define the relationships between government and business; buyers and sellers of goods and services; and employers and employees are discussed."
+  available: Typically offered in Fall, Spring & Summer.
+  professor:

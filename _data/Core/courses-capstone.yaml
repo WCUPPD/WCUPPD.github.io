@@ -1,0 +1,62 @@
+- course: PPD 481
+  title: Drug Design I
+  credits: 3 Credits
+  prereq: STA 311
+  coreq:
+  info: The first course in a three-semester sequence provides an overview of the pharmaceutical industry and the drug development process, followed by an in-depth study of the clinical trials portion of the process. Statistical design used in trials for demonstrating drug safety and efficacy are discussed. The role of IRBs, informed consent, and other medical legal issues are explored.
+  available: Typically offered in Spring.
+  professor:
+
+- course: PPD 482
+  title: Drug Design II
+  credits: 3 Credits
+  prereq: PPD 481, BIO 367
+  coreq:
+  info: A course emphasizing pharmacokinetic and toxicokinetic aspects of drugs. Sites and mechanisms of drug reaction and drug metabolism are discussed. Drug toxicology is also explored in depth. Laboratory therapeutic drug monitoring as a measure of improving drug efficacy is considered.
+  available: Typically offered in Fall.
+  professor:
+
+- course: PPD 483
+  title: Drug Design III
+  credits: 3 Credits
+  prereq: PPD 482, BIO 367, BIO 467
+  coreq:
+  info: This course emphasizes the discovery portion of drug development and illustrates the major concepts in medicinal chemistry. The scientific tools used such as high throughput screening, genomics and computational chemistry, are considered. Criteria for making a compound workable as a drug are discussed, and the selection of the administration route is reviewed.
+  available: Typically offered in Spring.
+  professor:
+
+- course: PPD 484
+  title: Pharmaceutical Internship I
+  credits: 1 Credit
+  prereq: Department Permission
+  coreq:
+  info: A summer, paid internship experience with a pharmaceutical or biotechnology company. These internships are designed to provide experiences in key aspects of the pharmaceutical industry. Students will be supervised jointly by an on-site professional scientist and a member of the Pharmaceutical Product Development Program Committee.
+  available: Typically offered in Summer.
+  professor:
+
+- course: PPD 485
+  title: Pharmaceutical Internship II
+  credits: 1 Credit
+  prereq:
+  coreq:
+  info: A second summer paid internship experience with a pharmaceutical or biotechnology company. These internships are designed to provide experiences in key aspects of the pharmaceutical industry. This experience will be designed to complement the experience gained from PPD 484.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: PPD 490
+  title: Special Topics in Drug Development
+  credits: 1 Credit
+  prereq: PPD 481
+  coreq: PPD 483
+  info: This special topics course is designed to offer in depth seminars about novel and exciting areas of research in the field of pharmaceutical product development and drug discovery. Invited speakers will be industry experts presenting the most up-to-date information about their areas of expertise.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: PPD 535
+  title: Pharmaceutical Chemistry
+  credits: 3 Credits
+  prereq: CHE 232
+  coreq:
+  info: Through the use of case studies, the student will learn the role of the chemist in drug discovery and development. Specifically, target initiation, competitive surveillance, lead discovery and optimization, counterscreens for selectivity, pharmacokinetics, selection criteria for entering development and synthetic optimization will be elucidated.
+  available: Typically offered in Fall & Spring.
+  professor:

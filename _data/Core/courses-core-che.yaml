@@ -1,0 +1,71 @@
+- course: CHE 103
+  title: General Chemistry I
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: "Basic laws and theories of chemistry, including atomic structure, chemical bonding, oxidation-reduction, solutions, and ionic equilibria. Correlations of chemical principles and their application to modern descriptive chemistry."
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: CHE 104
+  title: General Chemistry II
+  credits: 3 Credits
+  prereq: CHE 103
+  coreq:
+  info: "Basic laws and theories of chemistry, including atomic structure, chemical bonding, oxidation-reduction, solutions, and ionic equilibria. Correlations of chemical principles and their application to modern descriptive chemistry."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CHE 231
+  title: Organic Chemistry I
+  credits: 4 Credits
+  prereq: CHE 104
+  coreq:
+  info: "A unified conceptual introduction to organic molecular structure. Topics discussed will include structure of the atom, orbital and molecular bonding theory, nomenclature of classes of molecules, elementary molecular orbital theory, stereochemistry, nucleophilic substitution, elimination, resonance, and acid-base concepts. These concepts will be applied to the chemistry of hydrocarbons, alkyl halides, alcohols, and simple systems."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CHE 232
+  title: Organic Chemistry II
+  credits: 3 Credits
+  prereq: CHE 231
+  coreq:
+  info: "A survey of the classes of organic reaction from a mechanistic deductive approach. Topic will include nucleophilic and electrophilic substitution, reaction of carbonyl compounds, elimination, aromatic substitution, molecular rearrangements, oxidation reduction reactions, carbanion and amine chemistry. These reactions are applied to the remaining classes of organic compounds not covered in Organic Chemistry I."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CHE 476
+  title: Biochemistry I
+  credits: 3 Credits
+  prereq: CHE 232
+  coreq:
+  info: "This course examines the physical and chemical characteristics of proteins, carbohydrates, lipids, and nucleic acids. The bioenergetics of carbohydrate and fat metabolism and the enzymatic control of these processes is a focal point. The bioenergetics of carbohydrate and fat metabolism and the enzymatic control of these processes is a focal point. Nucleic acids in protein synthesis is also covered."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CRL 103
+  title: General Chemistry I Lab
+  credits: 1 Credit
+  prereq: CHE 103
+  coreq:
+  info: "Basic laboratory studies in college chemistry utilizing the quantitative approach. Semimicro qualitative analysis and inorganic preparations."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CRL 104
+  title: General Chemistry II Lab
+  credits: 1 Credit
+  prereq: CRL 103, CHE 104
+  coreq:
+  info: "Basic laboratory studies in college chemistry utilizing the quantitative approach. Semimicro qualitative analysis and inorganic preparations."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CRL 231
+  title: Organic Chemistry I Lab
+  credits: 2 Credits
+  prereq: CRL 104
+  coreq:
+  info: "Basic laboratory skills in organic chemistry including classical as well as instrumental techniques. Organic synthesis and modern spectrophotometric methods of identification."
+  available: Typically offered in Fall & Spring.
+  professor:

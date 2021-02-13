@@ -1,0 +1,179 @@
+- course: BIO 217
+  title: General Zoology
+  credits: 3 Credits
+  prereq: BIO 110
+  coreq:
+  info: Principles of animal biology. Form and function of vertebrate and invertebrate animal types.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: BIO 307
+  title: Pathophysiology
+  credits: 3 Credits
+  prereq: BIO 259, BIO 269
+  coreq:
+  info: An integrated study of the processes involved in the total body systemic complex as it changes from the ordered homeostatic condition to the imbalanced diseased state. The use of disease models, with clinical considerations, strengthens the concepts.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: BIO 314
+  title: Pathogenic Microbiology
+  credits: 4 Credits
+  prereq: BIO 214
+  coreq:
+  info: Systematic study of pathogenic bacteria with extensive laboratory experience in handling and identifying these organisms.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 334
+  title: Microbial Genetics
+  credits: 4 Credits
+  prereq: BIO 110, BIO 214, BIO 230, CHE 231
+  coreq:
+  info: A course on the genetics of bacteria, their viruses, plasmids, and transposable elements. Applications of microbial genetics in genetic engineering and biotechnology.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 357
+  title: Comparative Vertebrate Anatomy
+  credits: 4 Credits
+  prereq: BIO 217
+  coreq:
+  info: Comparative study of the principal organ systems of vertebrates as to their structure, function, and evolutionary relationships.
+  available: Typically offered in Fall.
+  professor:
+
+- course: BIO 421
+  title: Cellular and Molecular Biology
+  credits: 4 Credits
+  prereq: BIO 220, BIO 333, CHE 232
+  coreq:
+  info: A lecture and laboratory course that studies the molecular basis of cellular life. Eukaryotic cell structure and function will be emphasized.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 428
+  title: Animal Histology
+  credits: 3 Credits
+  prereq: BIO 110, BIO 217
+  coreq:
+  info: A study of the microscopic structure and function of vertebrate tissues and organs.
+  available: Typically offered in Fall.
+  professor:
+
+- course: BIO 431
+  title: Molecular Genetics
+  credits: 3 Credits
+  prereq: BIO 230, CHE 232
+  coreq:
+  info: A second course in genetics, covering the molecular biology of genetic events. Emphasis will be on the molecular details of basic genetic processes, such as DNA replication and transcription, RNA translation and protein synthesis, the genetic code, molecular mechanisms of gene regulation, and an introduction to biotechnology.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: BIO 454
+  title: Mycology
+  credits: 3 Credits
+  prereq: BIO 110, BIO 214
+  coreq:
+  info: An introductory course including a general study of the biology of fungi and a survey of the field of medical mycology.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 456
+  title: Virology
+  credits: 3 Credits
+  prereq: BIO 214, BIO 230, CHE 232
+  coreq:
+  info: Molecular biology of bacterial, plant, and animal viruses; virus classification, ultrastructure, mechanisms of replication, and effects of virus infection on host cell.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 464
+  title: Microbial Physiology
+  credits: 4 Credits
+  prereq: BIO 214, Bio 230, CHE 232
+  coreq:
+  info: Physiology and biochemical variations seen in prokaryotes and lower eukaryotes.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 465
+  title: Immunology
+  credits: 4 Credits
+  prereq: BIO 214, CHE 232
+  coreq:
+  info: Immunoglobulin structure and function, nature of antigens, cell-mediated immunity, hypersensitivity, regulation of immunity, and immunological diseases. Laboratory experience in immunological techniques.
+  available: Typically offered in Fall & Summer.
+  professor:
+
+- course: BIO 467
+  title: Endocrinology
+  credits: 3 Credits
+  prereq: BIO 217, BIO 220, One BIO 300 or BIO 400 Level Course
+  coreq:
+  info: An integrative look at the physiology of the mammalian endocrine system in the regulation and maintenance of homeostasis. The pathology associated with hormonal imbalance will be included.
+  available: Typically offered in Fall.
+  professor:
+
+- course: BIO 484
+  title: Epidemiology
+  credits: 3 Credits
+  prereq: BIO 214
+  coreq:
+  info: A general study of the epidemiology of both infectious and noninfectious diseases, including industrial and environmentally related health problems.
+  available: Typically offered in Fall.
+  professor:
+
+- course: BIO 259
+  title: Human Anatomy and Physiology I
+  credits: 4 Credits
+  prereq: BIO 110
+  coreq:
+  info: An introduction to human structure and function. Skeletal, muscular, and nervous systems are emphasized. Laboratory involves study of human development and gross anatomy of the skeletal, muscular, and nervous systems. May not be taken as a biology major elective.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: BIO 269
+  title: Human Anatomy and Physiology II
+  credits: 4 Credits
+  prereq: BIO 259
+  coreq:
+  info: Continuation of BIO 259. Endocrine, circulatory, respiratory, immune, digestive, and urogenital systems emphasized. May not be taken as a biology major elective.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: BIO 310
+  title: Biostatistical Applications
+  credits: 3 Credits
+  prereq: BIO 110, MAT 121
+  coreq:
+  info: The design, statistical analysis, graphical display and presentation of biological research.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: BIO 414
+  title: Applied and Industrial Microbiology
+  credits: 3 Credits
+  prereq: BIO 214
+  coreq:
+  info: This course traces both the historical and current applications of microbiology in industry and society. Topics covered during lectures include building and equipment design, microbiological safety, fermentation, waste treatment, compost, and food production. The course also features guest lectures from several practicing microbiologists involved in industry.
+  available: Typically offered in Fall.
+  professor:
+
+- course: BIO 440
+  title: Human Genetics
+  credits: 3 Credits
+  prereq: BIO 230
+  coreq:
+  info: A detailed survey of the principles of human heredity. Examines the impact of genetics on current issues in human medicine, pharmacology, evolution, and sociology, and evaluates ethical issues surrounding these topics.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 443
+  title: Introduction to Gene Expression Methodology
+  credits: 3 Credits
+  prereq: BIOc333
+  coreq:
+  info: Theory and practical application of RNA methodologies used in gene expression.
+  available: Typically offered in Spring.
+  professor:

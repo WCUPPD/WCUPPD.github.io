@@ -1,0 +1,403 @@
+---
+layout: page
+title: Course Guide
+permalink: /courses/
+---
+<section class="container portfolio-area" id="portfolio">
+	<h1 class="mt-5 text-center">Pharmaceutical Product Development Program</h1>
+	<hr class="mb-3">
+	<h2 class="mt-5 text-center">Core Courses</h2>
+	<hr class="mb-3">
+
+	<h2 class="mt-0 text-left">Capstone</h2>
+	<hr class="mb-3">
+
+<div class="row">
+	{% for course in site.data.Core.courses-capstone %}
+	<div class="p-2 col-12 col-sm-6 col-md-4">
+		<div id="accordion">
+			<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+				<div class="text-center d-flex flex-column h-100">
+					<div class="card-header text-bold py-1" id="headingOne">
+						<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+							{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+						</button>
+					</div>
+
+					<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+						<div class="d-flex flex-column justify-content-center card-body">
+							<h5 class="card-title my-0">{{ course.course }}</h5>
+							<div class="text-danger mb-2">{{ course.credits }}</div>
+							<div class="cat">{{ course.info }}</div>
+							<div class="text-info mt-2">{{ course.available }}</div>
+						</div>
+						<div class="card-footer border-light">
+							<div class="d-flex justify-content-around">
+								{% if course.prereq %}
+								<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+								{% endif %}
+								{% if course.coreq %}
+								<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+			{% endfor %}
+</div>
+
+		<h2 class="mt-0 text-left">Chemistry</h2>
+		<hr class="mb-3">
+
+
+
+<div class="row">
+		{% for course in site.data.Core.courses-core-che %}
+		<div class="p-2 col-12 col-sm-6 col-md-4">
+			<div id="accordion">
+				<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+					<div class="text-center d-flex flex-column h-100">
+						<div class="card-header text-bold py-1" id="headingOne">
+							<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+								{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+							</button>
+						</div>
+
+						<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+							<div class="d-flex flex-column justify-content-center card-body">
+								<h5 class="card-title my-0">{{ course.course }}</h5>
+								<div class="text-danger mb-2">{{ course.credits }}</div>
+								<div class="cat">{{ course.info }}</div>
+								<div class="text-info mt-2">{{ course.available }}</div>
+							</div>
+							<div class="card-footer border-light">
+								<div class="d-flex justify-content-around">
+									{% if course.prereq %}
+									<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+									{% endif %}
+									{% if course.coreq %}
+									<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+									{% endif %}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				{% endfor %}
+		</div>
+
+
+
+
+	<h2 class="mt-0 text-left">Biology</h2>
+	<hr class="mb-3">
+
+
+<div class="row">
+	{% for course in site.data.Core.courses-core-bio %}
+	<div class="p-2 col-12 col-sm-6 col-md-4">
+		<div id="accordion">
+			<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+				<div class="text-center d-flex flex-column h-100">
+					<div class="card-header text-bold py-1" id="headingOne">
+						<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+							{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+						</button>
+					</div>
+
+					<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+						<div class="d-flex flex-column justify-content-center card-body">
+							<h5 class="card-title my-0">{{ course.course }}</h5>
+							<div class="text-danger mb-2">{{ course.credits }}</div>
+							<div class="cat">{{ course.info }}</div>
+							<div class="text-info mt-2">{{ course.available }}</div>
+						</div>
+						<div class="card-footer border-light">
+							<div class="d-flex justify-content-around">
+								{% if course.prereq %}
+								<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+								{% endif %}
+								{% if course.coreq %}
+								<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+			{% endfor %}
+</div>
+
+	<h2 class="mt-0 text-left">Math</h2>
+	<hr class="mb-3">
+
+
+<div class="row">
+	{% for course in site.data.Core.courses-core-mat %}
+	<div class="p-2 col-12 col-sm-6 col-md-4">
+		<div id="accordion">
+			<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+				<div class="text-center d-flex flex-column h-100">
+					<div class="card-header text-bold py-1" id="headingOne">
+						<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+							{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+						</button>
+					</div>
+
+					<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+						<div class="d-flex flex-column justify-content-center card-body">
+							<h5 class="card-title my-0">{{ course.course }}</h5>
+							<div class="text-danger mb-2">{{ course.credits }}</div>
+							<div class="cat">{{ course.info }}</div>
+							<div class="text-info mt-2">{{ course.available }}</div>
+						</div>
+						<div class="card-footer border-light">
+							<div class="d-flex justify-content-around">
+								{% if course.prereq %}
+								<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+								{% endif %}
+								{% if course.coreq %}
+								<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+			{% endfor %}
+</div>
+
+	<h2 class="mt-0 text-left">Other</h2>
+	<hr class="mb-3">
+
+
+<div class="row">
+	{% for course in site.data.Core.courses-core-other %}
+	<div class="p-2 col-12 col-sm-6 col-md-4">
+		<div id="accordion">
+			<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+				<div class="text-center d-flex flex-column h-100">
+					<div class="card-header text-bold py-1" id="headingOne">
+						<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+							{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+						</button>
+					</div>
+
+					<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+						<div class="d-flex flex-column justify-content-center card-body">
+							<h5 class="card-title my-0">{{ course.course }}</h5>
+							<div class="text-danger mb-2">{{ course.credits }}</div>
+							<div class="cat">{{ course.info }}</div>
+							<div class="text-info mt-2">{{ course.available }}</div>
+						</div>
+						<div class="card-footer border-light">
+							<div class="d-flex justify-content-around">
+								{% if course.prereq %}
+								<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+								{% endif %}
+								{% if course.coreq %}
+								<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+			{% endfor %}
+</div>
+
+	<section class="container portfolio-area" id="portfolio">
+		<hr class="mb-3">
+		<h2 class="mt-3 text-center">Electives</h2>
+		<hr class="mb-3">
+
+		<h2 class="mt-0 text-left">Chemistry</h2>
+		<hr class="mb-3">
+
+
+<div class="row">
+		{% for course in site.data.Elective.courses-elect-che %}
+		<div class="p-2 col-12 col-sm-6 col-md-4">
+			<div id="accordion">
+				<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+					<div class="text-center d-flex flex-column h-100">
+						<div class="card-header text-bold py-1" id="headingOne">
+							<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+								{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+							</button>
+						</div>
+
+						<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+							<div class="d-flex flex-column justify-content-center card-body">
+								<h5 class="card-title my-0">{{ course.course }}</h5>
+								<div class="text-danger mb-2">{{ course.credits }}</div>
+								<div class="cat">{{ course.info }}</div>
+								<div class="text-info mt-2">{{ course.available }}</div>
+							</div>
+							<div class="card-footer border-light">
+								<div class="d-flex justify-content-around">
+									{% if course.prereq %}
+									<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+									{% endif %}
+									{% if course.coreq %}
+									<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+									{% endif %}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+				{% endfor %}
+	</div>
+
+
+		<h2 class="mt-0 text-left">Biology</h2>
+		<hr class="mb-3">
+
+
+
+<div class="row">
+		{% for course in site.data.Elective.courses-elect-bio %}
+		<div class="p-2 col-12 col-sm-6 col-md-4">
+			<div id="accordion">
+				<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+					<div class="text-center d-flex flex-column h-100">
+						<div class="card-header text-bold py-1" id="headingOne">
+							<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+								{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+							</button>
+						</div>
+
+						<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+							<div class="d-flex flex-column justify-content-center card-body">
+								<h5 class="card-title my-0">{{ course.course }}</h5>
+								<div class="text-danger mb-2">{{ course.credits }}</div>
+								<div class="cat">{{ course.info }}</div>
+								<div class="text-info mt-2">{{ course.available }}</div>
+							</div>
+							<div class="card-footer border-light">
+								<div class="d-flex justify-content-around">
+									{% if course.prereq %}
+									<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+									{% endif %}
+									{% if course.coreq %}
+									<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+									{% endif %}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+				{% endfor %}
+	</div>
+
+
+
+
+		<h2 class="mt-0 text-left">Math</h2>
+		<hr class="mb-3">
+
+
+
+<div class="row">
+		{% for course in site.data.Elective.courses-elect-mat %}
+		<div class="p-2 col-12 col-sm-6 col-md-4">
+			<div id="accordion">
+				<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+					<div class="text-center d-flex flex-column h-100">
+						<div class="card-header text-bold py-1" id="headingOne">
+							<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+								{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+							</button>
+						</div>
+
+						<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+							<div class="d-flex flex-column justify-content-center card-body">
+								<h5 class="card-title my-0">{{ course.course }}</h5>
+								<div class="text-danger mb-2">{{ course.credits }}</div>
+								<div class="cat">{{ course.info }}</div>
+								<div class="text-info mt-2">{{ course.available }}</div>
+							</div>
+							<div class="card-footer border-light">
+								<div class="d-flex justify-content-around">
+									{% if course.prereq %}
+									<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+									{% endif %}
+									{% if course.coreq %}
+									<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+									{% endif %}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+				{% endfor %}
+	</div>
+
+
+		<h2 class="mt-0 text-left">Other</h2>
+		<hr class="mb-3">
+
+
+<div class="row">
+		{% for course in site.data.Elective.courses-elect-other %}
+		<div class="p-2 col-12 col-sm-6 col-md-4">
+			<div id="accordion">
+				<div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+					<div class="text-center d-flex flex-column h-100">
+						<div class="card-header text-bold py-1" id="headingOne">
+							<button class="btn btn-link pt-1 pb-0 text-black" data-toggle="collapse" data-target="#{{ course.course | replace:' ','_' }}" aria-expanded="false" aria-controls="collapseOne">
+								{{ course.title }} <br><i class="fas fa-chevron-down"></i>
+							</button>
+						</div>
+
+						<div id="{{ course.course | replace:' ','_' }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+
+							<div class="d-flex flex-column justify-content-center card-body">
+								<h5 class="card-title my-0">{{ course.course }}</h5>
+								<div class="text-danger mb-2">{{ course.credits }}</div>
+								<div class="cat">{{ course.info }}</div>
+								<div class="text-info mt-2">{{ course.available }}</div>
+							</div>
+							<div class="card-footer border-light">
+								<div class="d-flex justify-content-around">
+									{% if course.prereq %}
+									<div class="text-dark">Pre-Req: {{ course.prereq }}</div>
+									{% endif %}
+									{% if course.coreq %}
+									<div class="text-dark">Co-Req: {{ course.coreq }}</div>
+									{% endif %}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+				{% endfor %}
+	</div>

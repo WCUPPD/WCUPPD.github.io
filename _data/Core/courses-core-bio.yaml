@@ -1,0 +1,62 @@
+- course: BIO 110
+  title: General Biology
+  credits: 3 Credits
+  prereq:
+  coreq:
+  info: "The concepts general to all living organisms such as cell structure and function, genetics, evolution, and ecology. This course is designed for majors in biology and related scientific areas."
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: BIO 214
+  title: General Microbiology
+  credits: 4 Credits
+  prereq: BIO 110
+  coreq:
+  info: "The biology of microorganisms, their structure, physiology, and control; the nature and dynamics of disease and disease control; principles of food, industrial, and environmental microbiology. The laboratory will deal with microbiological techniques, isolation and identification of microbes, and water and food analysis."
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: BIO 220
+  title: Cell Physiology
+  credits: 3 Credits
+  prereq: BIO 110, CHE 231
+  coreq:
+  info: "An introduction to cellular and molecular biology with emphasis on cell morphology, biochemistry, and cell physiology."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: BIO 230
+  title: Genetics
+  credits: 3 Credits
+  prereq: BIO 110, MAT 121
+  coreq:
+  info: "Nature of genetic material and its qualitative and quantitative variation: recombination; interaction of gene products; regulation of genetic material; and its role in evolution."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: BIO 367
+  title: Physiology of Drug Interactions
+  credits: 3 Credits
+  prereq: BIO 269
+  coreq:
+  info: An introduction to the mechanism of action of prototype drugs. The physiological alterations produced by various drugs as well as interactions between drug classes will be emphasized.
+  available: Typically offered in Spring.
+  professor:
+
+- course: BIO 469
+  title: Human Physiology
+  credits: 4 Credits
+  prereq: BIO 220, BIO 230, CHE 232
+  coreq:
+  info: Theoretical and applied principles of the physiology of humans presented from an organ-system approach. Emphasis is placed on homeostatic regulatory mechanisms. May not be taken as a biology major elective.
+  available: Typically offered in Fall.
+  professor:
+
+- course: BIO 333
+  title: Molecular Biology Techniques
+  credits: 2 Credits
+  prereq: BIO 230, BIO 204, CHE 231
+  coreq:
+  info: An introduction to laboratory techniques for molecular biology including restriction enzyme digests, gel electrophoresis, gene cloning in E. coli, RNA and DNA isolation, and polymerase chain reaction.
+  available: Typically offered in Fall & Spring.
+  professor:

@@ -1,0 +1,170 @@
+- course: CHE 232
+  title: Organic Chemistry II
+  credits: 3 Credits
+  prereq: CHE 231
+  coreq:
+  info: A survey of the classes of organic reaction from a mechanistic deductive approach. Topic will include nucleophilic and electrophilic substitution, reaction of carbonyl compounds, elimination, aromatic substitution, molecular rearrangements, oxidation reduction reactions, carbanion and amine chemistry. These reactions are applied to the remaining classes of organic compounds not covered in Organic Chemistry I.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CHE 321
+  title: Analytical Chemistry I
+  credits: 3 Credits
+  prereq: CHE 104
+  coreq:
+  info: Fundamental principles of analytical chemistry. Theory of gravimetric and volumetric methods of analysis.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CRL 321
+  title: Analytical Chemistry I Lab
+  credits: 2 Credits
+  prereq: CHE 321
+  coreq:
+  info: Practical experience in modern techniques of chemical analysis with emphasis on volumetric and gravimetric methods.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CHE 333
+  title: Advanced Organic Chemistry
+  credits: 3 Credits
+  prereq: CHE 232
+  coreq:
+  info: An advanced mechanistic study of organic compounds, functional groups, and their reactions. Spectroscopic characterization of organic molecules will also be covered.
+  available: Typically offered in Fall.
+  professor:
+
+- course: CHE 345
+  title: Fundamentals of Physical Chemistry
+  credits: 3 Credits
+  prereq: CHE 232, MAT 161 or MAT 145, PHY 140 or PHY 180
+  coreq:
+  info: A survey of the fundamental topics in physical chemistry with applications to biology and medicine. Primarily for biology, chemistry-biology, and preprofessional majors.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CHE 424
+  title: Advanced Analytical Chemistry
+  credits: 3 Credits
+  prereq: CHE 321, CHE 341
+  coreq: CHE 342
+  info: Basic principles of applied instrumental analysis. Special emphasis on the use of spectrophotometric and electroanalytical instrumentation.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CHE 436
+  title: Polymer Chemistry
+  credits: 3 Credits
+  prereq: CHE 232
+  coreq:
+  info: Polymerization kinetics, rheology of polymer melts, crystallization parameters, and monomer reactivity in copolymerization.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CHE 479
+  title: Chemical Toxicology
+  credits: 3 Credits
+  prereq: CHE 232
+  coreq:
+  info: A one-semester course in the environmental and physiological aspects of chemical toxicity. Special emphasis will be placed on documentation, sampling, and verification of materials.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CRL 424
+  title: Analytical Chemistry II Lab
+  credits: 2 Credits
+  prereq: CHE 424
+  coreq:
+  info: Practical experience in the choice and application of instrumental methods of analysis to chemical systems.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CRL 436
+  title: Polymer Chemistry Lab
+  credits: 2 Credits
+  prereq:
+  coreq: CHE 436
+  info: Synthesis of polymers; molecular, physical, and thermal characterization of polymers. Instrumental methods include X-rays, IR, electron microscopy, and thermal analysis.
+  available:
+  professor:
+
+- course: CRL 476
+  title: Biochemistry I Lab
+  credits: 2 Credits
+  prereq: CHE 476
+  coreq:
+  info: Laboratory exercises in the fundamentals of biochemistry.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CRL 477
+  title: Biochemistry II Lab
+  credits: 2 Credits
+  prereq: CHE 476, CRL 476
+  coreq:
+  info: An advanced laboratory course in biochemistry. This course is a practical application of biochemical principles, methods used in forensic DNA typing, and drug metabolite analysis in toxicological matrices.
+  available:
+  professor:
+
+- course: CHE 271
+  title: Forensic Chemistry I
+  credits: 3 Credits
+  prereq: CHE 104, BIO 110
+  coreq:
+  info: This course is a precursor to CHE 371 and its purpose is to introduce students to forensic science and its various disciplines. Students will also discuss professional practices and ethical expectations of a forensic scientist. The course content is designed for chemistry and physical chemistry majors with special emphasis on developing foundational scientific writing skills needed for upper level courses.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CHE 341
+  title: Physical Chemistry I
+  credits: 4 Credits
+  prereq: CHE 104, MAT 162
+  coreq:
+  info: An introduction to physical chemistry including ideal gases, kinetic theory, three laws of thermodynamics, introduction to phase equilibrium, chemical equilibrium, application of the fundamental equation of thermodynamics, transport phenomena, chemical kinetics, introductory spectroscopy, x-ray diffraction, and the structure of solids.
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: CHE 342
+  title: Physical Chemistry II
+  credits: 3 Credits
+  prereq: CHE 104, MAT 162, PHY 180
+  coreq:
+  info: Advanced thermodynamics including nonideal gases, nonideal systems, and thermodynamics at surfaces; introduction to statistical mechanics; quantum chemistry; advanced chemical kinetics, including kinetics near equilibrium, catalytic kinetics, and activated complex theory; and dynamic electrochemistry.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CHE 477
+  title: Biochemistry II
+  credits: 3 Credits
+  prereq: CHE 345, CHE 476
+  coreq:
+  info: This course is an extension of CHE 476 and considers the biosynthesis and degradation of proteins, carbohydrates, lipids, and nucleic acids. The primary focus is on the interrelationship of these molecules and the pathways involving their metabolism.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CHE 535
+  title: Pharmaceutical Chemistry
+  credits: 3 Credits
+  prereq: CHE 232
+  coreq:
+  info: Through the use of case studies, the student will learn the role of the chemist in drug discovery and development. Specifically, target initiation, competitive surveillance, lead discovery and optimization, counterscreens for selectivity, pharmacokinetics, selection criteria for entering development and synthetic optimization will be elucidated.
+  available: Typically offered in Spring.
+  professor:
+
+- course: CRL 341
+  title: Physical Chemistry I Lab
+  credits: 2 Credits
+  prereq: CHE 104, MAT 162, PHY 180
+  coreq:  CHE 341
+  info: Laboratory course in physical chemistry including computer applications, thermodynamics, chemical kinetics, structure, and spectroscopy.
+  available: Typically offered in Fall.
+  professor:
+
+- course: CRL 477
+  title: Biochemistry II Lab
+  credits: 2 Credits
+  prereq: CHE 476, CRL 476
+  coreq:
+  info: An advanced laboratory course in biochemistry. This course is a practical application of biochemical principles, methods used in forensic DNA typing, and drug metabolite analysis in toxicological matrices.
+  available: Typically offered in Spring.
+  professor:

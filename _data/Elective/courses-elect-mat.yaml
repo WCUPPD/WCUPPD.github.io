@@ -1,0 +1,35 @@
+- course: MAT 162
+  title: Calculus II
+  credits: 4 Credits
+  prereq: MAT 161
+  coreq:
+  info: Continuation of MAT 161 including the study of series, methods of integration, transcendental functions, and applications to the sciences.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: MAT 261
+  title: Calculus III
+  credits: 4 Credits
+  prereq: MAT 162
+  coreq:
+  info: The calculus of several variables. Topics include polar coordinates, vectors and three-dimensional analytic geometry, differentiation of functions of several variables, multiple integrals, and line and surface integrals.
+  available: Typically offered in Fall, Spring & Summer.
+  professor:
+
+- course: MAT 421
+  title: Mathematical Statistics I
+  credits: 3 Credits
+  prereq: MAT 261
+  coreq:
+  info: "Probability; discrete distributions; continuous distributions; mathematical expectation; moment generating functions; bivariate distributions; distributions of functions of random variables. Use of appropriate technology."
+  available: Typically offered in Fall & Spring.
+  professor:
+
+- course: MAT 422
+  title: Mathematical Statistics II
+  credits: 3 Credits
+  prereq: MAT 121
+  coreq:
+  info: "Order statistics; point estimation; interval estimation; tests of statistical hypotheses; statistics power; least squares regression. Use of appropriate technology."
+  available: Typically offered in Spring.
+  professor:
