@@ -22,10 +22,49 @@ title: Home
                     <div>
                         <a target="_blank" rel="noreferrer" href="https://ramconnect.wcupa.edu/ppd/club_signup" target="_blank" class="primary-btn text-uppercase">Join our club!</a>
                     </div>
-                  
+
                 </div>
             </div>
 
         </div>
     </div>
+<div class="col-md-6 banner-left mt-5 mb-0 mb-md-6">
+        <h3>{{ site.current_class }}-{{ site.current_class | plus: 1 }}&nbsp;Upcoming Events</h3>
+</div>
+<hr class="mb-3">
+    <div class="row mx-2">
+      {% for event in site.data.event %}
+      <div class="p-2 col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="card mb-3 mx-auto h-100" style="max-width: 18rem; box-shadow: rgb(0 0 0 / 10%) 1px 1px 10px 2px;">
+          <div class="text-center d-flex flex-column h-100">
+            <div class="card-header text-bold">{{ event.date }}</div>
+
+            <div class="d-flex flex-column justify-content-center card-body">
+              <h5 class="card-title my-0">{{ event.title }}</h5>
+
+              <img src="{{ event.image }}" width=200 height=200 class="img-fluid mx-auto mt-auto mb-auto" alt="">
+              <div class="cat" >{{ event.details }}</div>
+              {% if event.guest1 %}
+              <h6 class="mt-1">Special Guest:</h6>
+              <div class="cat" style="font-weight: bold">{{ event.guest1 }}</div>
+              {% endif %}
+              {% if event.guest2 %}
+              <div class="cat" style="font-weight: bold">{{ event.guest2 }}</div>
+              {% endif %}
+              {% if event.guest3 %}
+              <div class="cat" style="font-weight: bold">{{ event.guest3 }}</div>
+              {% endif %}
+            </div>
+
+            <div class="card-footer border-light">
+              <a target="_blank" rel="noreferrer" href="{{ event.zoom }}"><i class="fas text-primary fa-3x fa-video"></i></a>
+              <div class="flex-column justify-content-center ">
+                <p class="mb-0" style="font-weight: bold"> ZOOM Meeting</p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
 </section>
