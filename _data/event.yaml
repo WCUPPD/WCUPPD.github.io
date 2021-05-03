@@ -6,6 +6,7 @@
   guest1:
   guest2:
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event10.png"
 
@@ -17,6 +18,7 @@
   guest1: Tiffany Southerland
   guest2:
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event9.png"
 
@@ -28,6 +30,7 @@
   guest1: Dr. Alok Bhushan
   guest2: Dr. Gagan Kaushal
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event8.png"
 
@@ -39,6 +42,7 @@
   guest1: PPD Club Exec Board
   guest2: Nominees
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event7.png"
 
@@ -50,6 +54,7 @@
   guest1: PPD Club Exec Board
   guest2:
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event6.png"
 
@@ -61,6 +66,7 @@
   guest1: Dr. Susan Taylor
   guest2:
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event5.png"
 
@@ -72,6 +78,7 @@
   guest1: Executive Board
   guest2:
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event3.png"
 
@@ -83,6 +90,7 @@
   guest1: Dr. Mark Beaumont
   guest2: Ian White
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event2.png"
 
@@ -94,5 +102,6 @@
   guest1: Joyce Riley
   guest2:
   guest3:
+  location:
   zoom: https://wcupa.zoom.us/j/94501356889?pwd=ZW1KNXZMb3FOdjIwa3FqbEZFdkIvQT09
   image: "/img/event/event1.png"
