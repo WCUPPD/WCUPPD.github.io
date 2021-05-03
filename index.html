@@ -58,9 +58,18 @@ title: Home
 
 
             <div class="card-footer border-light">
-              <a target="_blank" rel="noreferrer" href="{{ event.zoom }}"><i class="fas text-primary fa-3x fa-video"></i></a>
               <div class="flex-column justify-content-center ">
-                <p class="mb-0" style="font-weight: bold"> ZOOM Meeting</p>
+
+              {% if event.zoom %}
+              <a target="_blank" rel="noreferrer" href="{{ event.zoom }}"><i class="fas text-primary fa-3x fa-video"></i></a>
+              <p class="mb-0" style="font-weight: bold"> ZOOM Meeting</p>
+              {% endif %}
+
+              {% if event.location %}
+              <h6 class="mt-1">Meeting Location:</h6>
+              <p class="mb-0" style="font-weight: bold"> {{ event.location }}</p>
+              <p class="mb-0" style="font-weight: bold"> {{ event.location2 }}</p>
+              {% endif %}
 
               </div>
             </div>
