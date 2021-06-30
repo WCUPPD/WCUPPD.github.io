@@ -41,12 +41,14 @@
     url: https://www.linkedin.com/in/brockton-robards-252a96150/
 
 - title: Finance
-  name: Logan Bartholomew
-  email: LB917450@wcupa.edu
-  portrait_path: "/img/officers/logan.jpeg"
+  name: Zoe Frankenfield
+  email: ZF925679@wcupa.edu
+  portrait_path: "/img/officers/zoe.jpeg"
   position: "e-board"
+  facebook:
+    url: https://www.facebook.com/zoe.frankenfield.9
   linkedin:
-    url: https://www.linkedin.com/in/logan-bartholomew-159a33195/
+    url: https://www.linkedin.com/in/zoe-frankenfield-89b664184/
 
 - title: Social Media Chair
   name: Morgan Miceli
