@@ -5,8 +5,6 @@
   position: "e-board"
   facebook:
     url: https://www.facebook.com/maxx.goulazian/
-  website:
-    url: http://maxgoulazian.com/
   linkedin:
     url: https://www.linkedin.com/in/maxgoulazian/
 
@@ -50,17 +48,7 @@
   linkedin:
     url: https://www.linkedin.com/in/zoe-frankenfield-89b664184/
 
-- title: Social Media Chair
-  name: Morgan Miceli
-  email: MM905955@wcupa.edu
-  portrait_path: "/img/officers/Morgan.jpeg"
-  position: "e-board"
-  facebook:
-    url: https://www.facebook.com/morgan.miceli.1
-  linkedin:
-    url: https://www.linkedin.com/in/morgan-miceli-710217197/
-
-- title: "Initiative Lead: Career Development"
+- title: "Initiative Lead & Social Media Chair"
   name: Isabelle Wentzel
   email: IW906701@wcupa.edu
   portrait_path: "/img/officers/isabelle.jpeg"
