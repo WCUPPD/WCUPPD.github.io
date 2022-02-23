@@ -1,4 +1,4 @@
-# [PittCSC.org](https://pittcsc.org/)
+
 
 ```
 bundle install
